@@ -2,7 +2,7 @@
 
 Projekt do zbierania i analizy danych z klawiatury w celu badania behawioralnych wzorców pisania użytkownika (Keystroke Dynamics).
 
-## 📋 Wymagania
+## Wymagania
 - Python 3.8 lub nowszy
 - Wymagane biblioteki:
   ```bash
